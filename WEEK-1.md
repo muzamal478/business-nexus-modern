@@ -44,7 +44,7 @@ business-nexus/
 ### Step-by-Step Setup
 1. **Initialize Vite Project**:
    ```bash
-   npm create vite@latest business-nexus -- --template react
+   npm create vite@latest business-nexus-modern -- --template react
    cd business-nexus
    npm install
    ```
