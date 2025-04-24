@@ -30,7 +30,7 @@ A networking platform built with React.js to connect entrepreneurs and investors
 - Steps: Push to GitHub, connect to Vercel, set environment variables.
 
 ## Demo
-- [Demo Video/Presentation](#)
+- [Demo Video](#)
 
 ## License
 MIT
